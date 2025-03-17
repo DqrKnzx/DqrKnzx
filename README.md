@@ -60,7 +60,7 @@
 
 <h1 align="center">Sponsor</h1>
 <p align="center">
-  <a href="https://github.com/sponsors/DqrKnz">
+  <a href="https://github.com/sponsors/DqrKnzx">
     <img src="https://img.shields.io/badge/Sponsor%20Me-%23ea4aaa?style=for-the-badge&logo=github&logoColor=ffffff&label=%E2%9D%A4">
   </a>
 </p>
