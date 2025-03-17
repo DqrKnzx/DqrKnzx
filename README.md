@@ -28,7 +28,7 @@
 <a href="https://ubuntu.com/download/desktop"><img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=ffffff"></a>
 </p>
 
-<h2 align=center>Donate</h2>
+<h1 align=center>Donate</h1>
 <p align=center>
 <a href="https://www.paypal.com/paypalme/DavidM3xican"><img src="https://img.shields.io/badge/DqrKnz-3b7bbf?style=flat-square&logo=paypal&logoColor=ffffff"></a>
 </p>
@@ -38,7 +38,7 @@
 <a href="https://github.com/sponsors/DqrKnz"><img src="https://img.shields.io/badge/Sponsor%20Me-%23ea4aaa?style=for-the-badge&logo=github&logoColor=ffffff&label=%E2%9D%A4"></a>
 </p>
 
-<h2 align=center>Contact</h2>
+<h1 align=center>Contact</h1>
 <p align=center>
 <a href="https://t.me/DqrKnz"><img src="https://img.shields.io/badge/%40DqrKnz-0088cc?style=flat-square&logo=telegram&logoColor=ffffff"></a>
 </p>
